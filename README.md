@@ -200,31 +200,6 @@ Engineering judgment guarantees quality.
 
 ---
 
-# 🧩 3D Interactive Portfolio (Advanced Section)
-
-To truly stand out, embed a 3D animated model banner using:
-
-- Spline
-- Three.js
-- Vanta.js
-- Or a custom WebGL scene
-
-You can host a 3D hero animation like:
-
-> Rotating neural network mesh  
-> Floating Kubernetes cluster nodes  
-> Animated cloud infrastructure  
-
-Then embed it as:
-
-```md
-<p align="center">
-  <img src="https://your-hosted-3d-preview.gif" width="800" />
-</p>
-```
-
----
-
 # 🤝 Let’s Build
 
 If you’re interested in:
@@ -244,29 +219,3 @@ Open to high-impact engineering roles
 ---
 
 ⭐ If you like what you see, explore my repositories below.
-
----
-
-# 🔥 Why This README Is Strong
-
-This does:
-
-- Shows senior thinking
-- Shows impact
-- Shows AI depth
-- Shows systems mindset
-- Shows cloud-native expertise
-- Avoids generic fluff
-- Feels intentional and modern
-
----
-
-If you want, next I can:
-
-- Make a more visually animated version
-- Add a dark cyberpunk aesthetic
-- Add animated SVG wave background
-- Or create a fully branded “AI Systems Architect” identity theme
-
-What aesthetic do you want:
-Minimal | Futuristic | Cyberpunk | Corporate Clean | AI Researcher Vibe?
